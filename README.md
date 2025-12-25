@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucy! 👋
 
-Sou uma estudante de tecnologia focado em transformar problemas em soluções através do código.
+Sou uma estudante de tecnologia focada em transformar problemas em soluções através do código.
 
 ---
 
