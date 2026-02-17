@@ -18,7 +18,7 @@
 #### [Guaraná: Pet Virtual Pomodoro](https://github.com/lucybaia/guarana)
 Uma ferramenta de produtividade que utiliza gamificação para auxiliar no foco e gerenciamento de tempo.
 
-#### [Sistema de Monitoramento Acadêmico](https://github.com/lucybaia)
+#### [Sistema de Monitoramento Acadêmico](https://github.com/lucybaia/monitoramento-academico)
 Projeto voltado para escolas públicas, focado na gestão eficiente de notas e frequência através de frameworks modernos.
 
 ---
