@@ -41,6 +41,7 @@ Implementação de pipelines para automatizar o fluxo de integração e entrega 
 ### 📜 Certificações
 * **Python Essentials** – Cisco Networking Academy
 * **English for IT** – Cisco Networking Academy
+* **IT Support Fundamentals** - Google
 
 ---
 
