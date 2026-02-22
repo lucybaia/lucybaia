@@ -1,51 +1,57 @@
-# Oi, eu sou a Lucy! 👾
+# Hi, I'm Lucy! 👾
 
-**Desenvolvedora Backend & Aspirante a Engenheira DevOps**
-Atualmente cursando Análise e Desenvolvimento de Sistemas no CEUB, foco minha energia em transformar infraestrutura manual em código e automatizar ciclos de vida de software.
-
----
-
-### 🚀 Minha Jornada DevOps (Principais Competências)
-
-Recentemente, expandi meu toolkit técnico para incluir práticas modernas de Cloud e automação:
-
-* **Cloud & Infrastructure:** Provisionamento em **Microsoft Azure** utilizando **Terraform (IaC)** e Azure CLI.
-* **Containers:** Virtualização de aplicações com **Docker** e **Docker Compose**, focando em portabilidade e isolamento.
-* **CI/CD:** Automatização de builds e deployments através de **GitHub Actions**.
-* **Linux Admin:** Gestão de servidores via CLI, automação com **Bash Scripting** e gerenciamento de segurança via SSH e NSG.
-
-### 🛠️ Tech Stack Consolidado
-
-* **Linguagens:** Python (Advanced/Cisco Certified), C#, Java, SQL e HCL (Terraform).
-* **DevOps Tools:** Docker, GitHub Actions, Terraform, Git, Azure CLI.
-* **Diferencial:** Inglês fluente para TI (Cisco Certified) e sólida base em lógica POO.
+**Aspiring DevOps Engineer**  
+Currently studying Systems Analysis and Development @ CEUB, I focus my energy on transforming manual infrastructure into code and automating software lifecycle processes.
 
 ---
 
-### 📂 Projetos Recentes em Destaque
+### ♾️ My DevOps Journey (Core Competencies)
+
+Recently, I expanded my technical toolkit to include modern Cloud and automation practices:
+
+- **Cloud & Infrastructure:** Resource provisioning on **Microsoft Azure** using **Terraform (IaC)** and Azure CLI.
+- **Containers:** Application virtualization with **Docker** and **Docker Compose**, focusing on portability and isolation.
+- **CI/CD:** Automating builds and deployments through **GitHub Actions**.
+- **Linux Admin:** Server management via CLI, automation with **Bash Scripting**, and security management via SSH and NSG.
+
+### 🛠️ Consolidated Tech Stack
+
+- **Languages:** Python (Advanced/Cisco Certified), C#, Java, SQL, and HCL (Terraform).
+- **DevOps Tools:** Docker, GitHub Actions, Terraform, Git, Azure CLI.
+- **Differentials:** Fluent English for IT (Cisco Certified) and a solid foundation in OOP logic.
+
+---
+
+### 📂 Recent Featured Projects
 
 #### [🏗️ IaC Terraform Azure](https://github.com/lucybaia/IaC-Terraform-Azure)
-Provisionamento automatizado de recursos na Azure usando HCL. Foco em idempotência e infraestrutura versionada.
+
+Automated provisioning of Azure resources using HCL. Focus on idempotency and versioned infrastructure.
 
 #### [🐳 Azure App Containerization](https://github.com/lucybaia/Azure-App-Containerization)
-Containerização de uma API FastAPI com Docker, pronta para o Azure Container Registry (ACR), garantindo que a aplicação rode em qualquer lugar.
+
+Containerization of a FastAPI application with Docker, ready for Azure Container Registry (ACR), ensuring the app runs anywhere.
 
 #### [🐧 Linux & Azure Fundamentals](https://github.com/lucybaia/Linux-Azure-Fundamentals)
-Primeiro milestone da minha jornada: automação de provisionamento de VMs Ubuntu via Python, eliminando erros de configuração manual.
+
+First milestone of my journey: automating Ubuntu VM provisioning via Python, eliminating manual configuration errors.
 
 #### [🔄 CI/CD GitHub Actions](https://github.com/lucybaia/CI-CD-Github-Actions)
-Implementação de pipelines para automatizar o fluxo de integração e entrega contínua.
+
+Pipeline implementation to automate the continuous integration and delivery workflow.
 
 ---
 
-### 📜 Certificações
-* **Python Essentials** – Cisco Networking Academy
-* **English for IT** – Cisco Networking Academy
-* **IT Support Fundamentals** - Google
+### 📜 Certifications
+
+- **Python Essentials I** – Cisco Networking Academy
+- **English for IT - Describing and Comparing** – Cisco Networking Academy
+- **IT Support Fundamentals** – Google
 
 ---
 
-### 📫 Vamos nos conectar?
-Fique à vontade para explorar meus repositórios ou entrar em contato para trocarmos experiências sobre DevOps e desenvolvimento backend!
+### 📫 Let's Connect?
+
+Feel free to explore my repositories or reach out to exchange experiences about DevOps and backend development!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucy-baia/)
