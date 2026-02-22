@@ -1,3 +1,5 @@
+![Banner]bannerdahora.png
+
 # Hi, I'm Lucy! 👾
 
 **Aspiring DevOps Engineer**  
