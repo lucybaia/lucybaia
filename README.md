@@ -1,4 +1,4 @@
-![Banner]bannerdahora.png
+![Banner da Lucy](https://raw.githubusercontent.com/lucybaia/lucybaia/main/bannerdahora.png)
 
 # Hi, I'm Lucy! 👾
 
