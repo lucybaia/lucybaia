@@ -1,4 +1,4 @@
-![Banner da Lucy](https://raw.githubusercontent.com/lucybaia/lucybaia/main/bannerdahora.png)
+![Banner da Lucy](https://raw.githubusercontent.com/lucybaia/lucybaia/main/banner2.png)
 
 # Hi, I'm Lucy! 👾
 
