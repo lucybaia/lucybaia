@@ -20,7 +20,7 @@ Recently, I expanded my technical toolkit to include modern Cloud and automation
 
 - **Languages:** Python (Advanced/Cisco Certified), C#, Java, SQL, and HCL (Terraform).
 - **DevOps Tools:** Docker, GitHub Actions, Terraform, Git, Azure CLI.
-- **Differentials:** Fluent English for IT (Cisco Certified) and a solid foundation in OOP logic.
+- **Differentials:** Fluent English for IT (Cisco Certified) and automation tools skills.
 
 ---
 
