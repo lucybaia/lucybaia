@@ -49,6 +49,7 @@ Pipeline implementation to automate the continuous integration and delivery work
 - **Python Essentials I** – Cisco Networking Academy
 - **English for IT - Describing and Comparing** – Cisco Networking Academy
 - **IT Support Fundamentals** – Google
+- 
 
 ---
 
