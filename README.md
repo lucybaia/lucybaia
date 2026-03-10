@@ -1,60 +1,42 @@
-![Banner da Lucy](https://raw.githubusercontent.com/lucybaia/lucybaia/main/banner2.png)
-
 # Hi, I'm Lucy! 👾
 
-**Aspiring DevOps Engineer**  
-Currently studying Systems Analysis and Development @ CEUB, I focus my energy on transforming manual infrastructure into code and automating software lifecycle processes.
+# 💻 Front-end Developer
+
+> Welcome to my front-end development space! I'm a **Systems Analysis and Development** student focused on building interfaces that combine **performance**, **accessibility**, and a **striking visual aesthetic**.
 
 ---
 
-### ♾️ My DevOps Journey (Core Competencies)
+## 🛠️ What I've Been Working On
 
-Recently, I expanded my technical toolkit to include modern Cloud and automation practices:
+I currently dedicate my studies to building modern, responsive interfaces — exploring the React ecosystem and advanced styling with a strong focus on user experience (UX).
 
-- **Cloud & Infrastructure:** Resource provisioning on **Microsoft Azure** using **Terraform (IaC)** and Azure CLI.
-- **Containers:** Application virtualization with **Docker** and **Docker Compose**, focusing on portability and isolation.
-- **CI/CD:** Automating builds and deployments through **GitHub Actions**.
-- **Linux Admin:** Server management via CLI, automation with **Bash Scripting**, and security management via SSH and NSG.
-
-### 🛠️ Consolidated Tech Stack
-
-- **Languages:** Python (Advanced/Cisco Certified), C#, Java, SQL, and HCL (Terraform).
-- **DevOps Tools:** Docker, GitHub Actions, Terraform, Git, Azure CLI.
-- **Differentials:** Fluent English for IT (Cisco Certified) and automation tools skills.
+| Category       | Technologies                         |
+|----------------|--------------------------------------|
+| **Frameworks** | Next.js (App Router), React.js       |
+| **Styling**    | Tailwind CSS, CSS Modules            |
+| **Languages**  | TypeScript, JavaScript               |
+| **Design & Art** | Pixel Art (8-bit style), Figma     |
 
 ---
 
-### 📂 Recent Featured Projects
+## 🚀 Featured Projects
 
-#### [🏗️ IaC Terraform Azure](https://github.com/lucybaia/IaC-Terraform-Azure)
+### 👾 `.log(_)`
+> A social network for developers with a unique **pixel art** visual identity.
 
-Automated provisioning of Azure resources using HCL. Focus on idempotency and versioned infrastructure.
-
-#### [🐳 Azure App Containerization](https://github.com/lucybaia/Azure-App-Containerization)
-
-Containerization of a FastAPI application with Docker, ready for Azure Container Registry (ACR), ensuring the app runs anywhere.
-
-#### [🐧 Linux & Azure Fundamentals](https://github.com/lucybaia/Linux-Azure-Fundamentals)
-
-First milestone of my journey: automating Ubuntu VM provisioning via Python, eliminating manual configuration errors.
-
-#### [🔄 CI/CD GitHub Actions](https://github.com/lucybaia/CI-CD-Github-Actions)
-
-Pipeline implementation to automate the continuous integration and delivery workflow.
+- **Tech Stack:** Next.js, Tailwind CSS and Java on the backend
+- **Highlight:** Implementation of a modern retro interface with dynamic API integration
 
 ---
 
-### 📜 Certifications
+## 🎯 Current Goals
 
-- **Python Essentials I** – Cisco Networking Academy
-- **English for IT - Describing and Comparing** – Cisco Networking Academy
-- **IT Support Fundamentals** – Google
-- 
+- [ ] Deepen knowledge of **Clean Code** concepts applied to Front-end
+- [ ] Explore interface integration with **CI/CD** pipelines (DevOps Mindset)
+- [ ] Refine **componentization** for scalable systems
 
 ---
 
 ### 📫 Let's Connect?
-
-Feel free to explore my repositories or reach out to exchange experiences about DevOps and backend development!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucy-baia/)
