@@ -37,7 +37,7 @@ Montei do zero o pipeline de CI/CD no GitLab usado pelo time de desenvolvimento 
 
 ### Open source
 
-Contribuições na área de observabilidade, em [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (chart `kube-prometheus-stack`).
+-
 
 ## Tech stack
 
